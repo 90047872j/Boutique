@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="boutique.ListaPrendas" id="ListaPrendas0">
+  <void property="lista">
+   <void method="add">
+    <object class="boutique.Prenda">
+     <void property="codigo">
+      <string>000001</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="coste">
+      <double>5.0</double>
+     </void>
+     <void property="descripcion">
+      <string>Camiseta Londres Hombre</string>
+     </void>
+     <void property="stock">
+      <int>58</int>
+     </void>
+     <void property="talla">
+      <string>XS</string>
+     </void>
+     <void property="venta">
+      <double>35.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="boutique.Prenda">
+     <void property="codigo">
+      <string>000002</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="coste">
+      <double>5.0</double>
+     </void>
+     <void property="descripcion">
+      <string>Camiseta Londres Hombre</string>
+     </void>
+     <void property="stock">
+      <int>60</int>
+     </void>
+     <void property="talla">
+      <string>S</string>
+     </void>
+     <void property="venta">
+      <double>35.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="boutique.Prenda">
+     <void property="codigo">
+      <string>000003</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="coste">
+      <double>5.0</double>
+     </void>
+     <void property="descripcion">
+      <string>Camiseta Londres Hombre</string>
+     </void>
+     <void property="stock">
+      <int>61</int>
+     </void>
+     <void property="talla">
+      <string>L</string>
+     </void>
+     <void property="venta">
+      <double>35.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="boutique.Prenda">
+     <void property="codigo">
+      <string>000004</string>
+     </void>
+     <void property="color">
+      <string>Azul</string>
+     </void>
+     <void property="coste">
+      <double>10.23</double>
+     </void>
+     <void property="descripcion">
+      <string>Pantalones Hi-Track Mujer</string>
+     </void>
+     <void property="stock">
+      <int>25</int>
+     </void>
+     <void property="talla">
+      <string>M</string>
+     </void>
+     <void property="venta">
+      <double>30.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="boutique.Prenda">
+     <void property="codigo">
+      <string>000005</string>
+     </void>
+     <void property="color">
+      <string>Amarillo</string>
+     </void>
+     <void property="coste">
+      <double>12.58</double>
+     </void>
+     <void property="descripcion">
+      <string>Top Montblanc Mujer</string>
+     </void>
+     <void property="stock">
+      <int>34</int>
+     </void>
+     <void property="talla">
+      <string>M</string>
+     </void>
+     <void property="venta">
+      <double>30.0</double>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
