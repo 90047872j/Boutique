@@ -4,7 +4,6 @@ package boutique;
 import java.io.Serializable;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import javax.swing.JOptionPane;
 
 /**
  *

@@ -251,7 +251,7 @@ public class AltaPrenda extends javax.swing.JDialog {
         } else {
             Boutique.misPrendas.altaPrenda(p);
             Boutique.miFichero.grabar(Boutique.misPrendas);
-            JOptionPane.showInputDialog(this, "Prenda dada de Alta", "Alta Satisfactoria", JOptionPane.PLAIN_MESSAGE);
+            JOptionPane.showMessageDialog(this, "Prenda dada de Alta", "Alta Satisfactoria", JOptionPane.INFORMATION_MESSAGE);
             dispose();
         }
     }//GEN-LAST:event_jButton1ActionPerformed
